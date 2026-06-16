@@ -34,3 +34,4 @@ s="abcdefgh"
 print(s[3:6])
 print(s[3:6:2])
 print(s[5:1:2])
+print("erhoş")
